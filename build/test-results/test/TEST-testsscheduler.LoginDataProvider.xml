@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testsscheduler.LoginDataProvider" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-26T16:04:17" hostname="MacBook-Pro-Taya.local" time="102.407">
-  <properties/>
-  <testcase name="loginWithDto[0](noa@gmail.com, Nnoa12345$)" classname="testsscheduler.LoginDataProvider" time="40.671"/>
-  <testcase name="loginWithDto[1](sonya@gmail.com, Ss12345$)" classname="testsscheduler.LoginDataProvider" time="29.882"/>
-  <testcase name="loginWithDto[2](noa@gmail.com, Nnoa12345$)" classname="testsscheduler.LoginDataProvider" time="31.847"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
