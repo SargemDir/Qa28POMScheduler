@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testsscheduler.EventCreateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-30T15:34:43" hostname="MBP-Taya.lan" time="104.166">
+  <properties/>
+  <testcase name="eventCreationTestDto" classname="testsscheduler.EventCreateTest" time="104.166"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
